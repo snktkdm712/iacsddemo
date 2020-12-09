@@ -1,4 +1,0 @@
-FROM node:7
-RUN npm install
-CMD node app.js
-EXPOSE 8081
